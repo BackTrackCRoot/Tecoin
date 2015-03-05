@@ -46,7 +46,7 @@ Specifications
 * Multipool protection: Kimoto Gravity Well Temporal Retargeting
 * Premine: 1-2% (depending on total supply) for future development, support and maintenance
 * Bounties: 1-2% (depending on total supply) for strategic direction and promoting of Tecoin
-* IPO: 4-8% (depending on total supply) already distributed over 172 stakeholders
+
 
 
 License
